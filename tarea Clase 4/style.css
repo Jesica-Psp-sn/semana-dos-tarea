@@ -1,0 +1,14 @@
+.dias {    font-weight: bold;
+    font-size: large;
+
+}
+.horas {font-family: cursive;}
+.colorlunes {color: rgb(255, 252, 80);}
+.colormartes{color: chartreuse;}
+.colormiercoles{color:aqua}
+.colorjueves{color: rgba(91, 59, 94, 0.404);}
+/*logo contactos*/
+.btn-insta-wtp {
+width: 40px;
+height: 40px;
+}
